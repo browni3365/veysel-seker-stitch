@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+output/
+data/history.json
+data/settings.json
+android/.gradle/
+android/local.properties
+android/app/build/
+android/build/
+android/.idea/
+*.iml
+.DS_Store
